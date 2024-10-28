@@ -1,0 +1,14 @@
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\bin\Debug\net8.0\CourseMenagment.exe
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\bin\Debug\net8.0\CourseMenagment.deps.json
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\bin\Debug\net8.0\CourseMenagment.runtimeconfig.json
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\bin\Debug\net8.0\CourseMenagment.dll
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\bin\Debug\net8.0\CourseMenagment.pdb
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.dll
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\refint\CourseMenagment.dll
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.pdb
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\CourseMenagment.genruntimeconfig.cache
+C:\Users\Kubra\source\repos\CourseMenagment\CourseMenagment\obj\Debug\net8.0\ref\CourseMenagment.dll

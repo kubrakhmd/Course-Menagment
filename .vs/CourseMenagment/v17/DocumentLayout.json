@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\groupcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\groupcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|c:\\users\\kubra\\source\\repos\\coursemenagment\\coursemenagment\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A332748D-BC6A-4C12-AA2F-E89D2BFBB560}|CourseMenagment\\CourseMenagment.csproj|solutionrelative:coursemenagment\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Groups.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\Groups.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Groups.cs",
+              "RelativeToolTip": "CourseMenagment\\Groups.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:30:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Program.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Program.cs",
+              "RelativeToolTip": "CourseMenagment\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:23:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\GroupCategory.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\GroupCategory.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\GroupCategory.cs",
+              "RelativeToolTip": "CourseMenagment\\GroupCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:04:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Helper.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\Helper.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Helper.cs",
+              "RelativeToolTip": "CourseMenagment\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:20:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Group.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\Group.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Group.cs",
+              "RelativeToolTip": "CourseMenagment\\Group.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:23:38.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Student.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\Student.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\Student.cs",
+              "RelativeToolTip": "CourseMenagment\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:20:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseMenagment\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Kubra\\source\\repos\\CourseMenagment\\CourseMenagment\\CourseService.cs",
+              "RelativeToolTip": "CourseMenagment\\CourseService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:20:26.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
